@@ -1,5 +1,4 @@
 # KaggleCareerCorrelation
-# KaggleCareerCorrelation
 
 I used to wonder what is the correlation between performance and achievements on Kaggle and a career in Data Science. Does a good Kaggle profile help in real world career as a Data Scientist? So I decided to prepare datasets that would help one analyze this correlation. 
 
